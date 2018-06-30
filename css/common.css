@@ -1,0 +1,41 @@
+*{
+    padding: 0px;
+    margin: 0px;
+}
+# header{
+      height: 32px;
+      background: red;
+      float: left;
+      background-color: #f2f2f2;
+      line-height：32px;
+      margin: 0 auto;
+  }
+li{
+    list-style: none;
+    float: left;
+}
+a,span{
+    text-decoration: none;
+    color:#999999;
+    font-size: 12px;
+    margin: 0 14px;
+
+}
+#right{
+    float: right;
+}
+#header a:hover{
+    color: #ff0036;
+}
+div{
+    background: #f2f2f2;;
+}
+
+.wrapper{
+    width: 1230px;
+    height: 100%;
+    margin: 0 auto;
+
+}
+p{
+    float: left;}
